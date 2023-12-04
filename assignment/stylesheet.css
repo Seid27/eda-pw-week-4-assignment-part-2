@@ -1,0 +1,38 @@
+
+*{
+  margin: 0;
+}
+
+header{
+  padding: 10px;
+  background-color: #29335c;
+  color: #e4572e;
+}
+
+a{
+  color: #f2af29;
+}
+
+.container{
+  text-align: center;
+}
+
+.info{
+  border-style: solid;
+  border-color: black;
+  margin: auto;
+  width: 900px;
+  background-color: #f2af29;
+  color: #e4572e;
+}
+.info h2{
+  padding: 10px;
+  background-color: #29335c;
+
+}
+
+.info h3{
+  padding: 10px;
+  background-color: #29335c;
+
+}
